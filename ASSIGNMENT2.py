@@ -19,4 +19,4 @@ print('%s charge you %d for %s ' % (s,fees,course))
 #Q.6- Find the area of circle pi = 3.14  Take radius as input from user Print the area of circle 
 pi=3.14
 radius=int(input("enter a radius"))
-print("area of circle is ",pi*radius)
+print("area of circle is ",pi*radius*radius)
